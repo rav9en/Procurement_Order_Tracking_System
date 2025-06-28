@@ -1,0 +1,25 @@
+SE001,I08,Vacuum Cleaner,S03,300.00,5kg/25x25x45cm,7,10,1
+SE002,I09,Coffee Maker,S01,150.00,4kg/30x20x25cm,5,8,2
+SE003,I06,Washing Machine,S02,900.00,35kg/60x55x90cm,2,5,1
+SE004,I02,Electric Kettle,S01,80.00,1.5kg/15x10x10cm,10,20,8
+SE005,I03,Microwave Oven,S02,450.00,12kg/50x40x35cm,4,8,3
+SE006,I10,Hair Dryer,S03,60.00,1kg/20x10x5cm,12,20,5
+SE007,I01,Rice Steamer,S01,160.00,3kg/25x20x15cm,5,15,7
+SE008,I04,Air Conditioner,S02,1150.00,40kg/80x60x40cm,2,6,1
+SE009,I11,Juicer,S03,120.00,2kg/20x15x25cm,6,12,4
+SE010,I12,Dishwasher,S01,700.00,45kg/60x55x85cm,2,4,1
+SE011,I07,Blender,S03,170.00,2.5kg/15x15x30cm,7,10,6
+SE012,I05,Toaster,S02,95.00,2.5kg/22x15x12cm,8,15,5
+SE013,I08,Vacuum Cleaner,S03,280.00,6kg/25x30x50cm,5,8,2
+SE014,I09,Coffee Maker,S01,140.00,3kg/28x22x20cm,6,10,3
+SE015,I06,Washing Machine,S02,880.00,30kg/65x55x85cm,3,5,1
+SE016,I13,Iron Box,S03,50.00,1.5kg/25x12x10cm,10,20,8
+SE017,I14,Refrigerator,S01,1400.00,60kg/70x60x180cm,1,3,1
+SE018,I15,Water Heater,S02,350.00,15kg/30x30x40cm,4,8,2
+SE019,I16,Electric Fan,S03,100.00,5kg/40x40x60cm,7,15,5
+SE020,I05,Toaster,S02,100.00,3kg/20x15x10cm,6,12,4
+SE021,I02,Smart doorbell,S02,500.00,0.8kg/10x10x5cm,6,12,7
+SE022,I04,Air conditioner(1.5 HP),S02,1200.00,30kg/80x60x40cm,3,6,5
+SE023,I04,Air conditioner(1.5 HP),S02,1200.00,30kg/80x60x40cm,3,6,4
+SE024,I02,Smart doorbell,S02,500.00,0.8kg/10x10x5cm,6,5,1
+SE025,I07,Blender,S03,180.00,2kg/15x15x30cm,8,18,2

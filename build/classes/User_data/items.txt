@@ -1,0 +1,30 @@
+I01, Electric rice steamer, S01, 180.0, 2kg/25x25x25cm, 10, 5
+I02, Smart doorbell, S02, 500.0, 0.8kg/10x10x5cm, 6, 2
+I03, Microwave oven, S01, 480.0, 12kg/50x40x35cm, 5, 2
+I04, Air conditioner(1.5 HP), S02, 1200.0, 30kg/80x60x40cm, 3, 2
+I05, Washing machine(7kg), S04, 1400.0, 35kg/60x55x85cm, 2, 1
+I06, Refrigerator(400L), S04, 2000.0, 60kg/80x70x60cm, 2, 1
+I07, Blender, S03, 180.0, 2kg/15x15x30cm, 8, 5
+I08, Electric kettle, S08, 90.0, 1.5kg/20x20x20cm, 10, 6
+I09, Outdoor security camera, S07, 750.0, 2kg/25x15x15cm, 4, 3
+I10, Electric shaver, S08, 220.0, 0.5kg/10x5x3cm, 15, 10
+I11, Electric blanket, S06, 380.0, 2kg/200x150cm, 4, 2
+I12, Hair dryer, S03, 100.0, 1kg/20x10x10cm, 20, 15
+I13, Coffee maker, S08, 350.0, 4kg/30x20x20cm, 5, 1
+I14, Smart thermostat, S07, 450.0, 0.5kg/15x10x5cm, 5, 4
+I15, Portable generator, S06, 1800.0, 20kg/50x50x50cm, 2, 1
+I16, Surge protector, S11, 140.0, 1kg/30x15x10cm, 8, 7
+I17, Extension cord(5 sockets), S12, 45.0, 0.5kg/20x10x5cm, 25, 5
+I18, Smart light bulb, S09, 60.0, 0.2kg/10x10x5cm, 20, 15
+I19, Electric drill, S06, 290.0, 3kg/25x20x15cm, 6, 4
+I20, Powerbank, S09, 120.0, 0.3kg/10x5x2cm, 15, 9
+I21, Laptop, S10, 3400.0, 2kg/35x25x2cm, 4, 2
+I22, Smartphone, S05, 2500.0, 0.3kg/15x8x1cm, 5, 3
+I23, Bluetooth speaker, S09, 240.0, 1kg/15x10x10cm, 12, 6
+I24, Smart watch, S09, 700.0, 0.2kg/5x5x2cm, 6, 4
+I25, Air fryer, S01, 380.0, 4kg/35x30x30cm, 6, 5
+I26, Ceiling fan, S06, 250.0, 4kg/60x60x30cm, 5, 2
+I27, Iron, S08, 120.0, 1.5kg/25x12x12cm, 10, 3
+I28, LED TV(40 inches), S04, 1900.0, 15kg/100x60x10cm, 4, 3
+I29, Vacuum cleaner, S02, 600.0, 5kg/40x30x25cm, 3, 2
+I30, Dehumidifier, S12, 650.0, 5kg/45x30x30cm, 6, 2

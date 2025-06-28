@@ -1,0 +1,12 @@
+S01, Senheng Electric, +60392814040, sales@senheng.com.my, I01;I03;I25, Net 30, Air, 200, 5
+S02, Panasonic Malaysia, +60379537600, contact@panasonic.com.my, I02;I04;I29, Net 60, Sea, 150, 10
+S03, Pensonic Holdings, +6042623300, support@pensonic.com.my, I07;I12, Net 30, Land, 300, 3
+S04, Samsung Malaysia, +60351911515, contact@samsung.com.my, I05;I06;I28, Net 45, Air, 100, 7
+S05, Huawei Malaysia, +60322620086, sales@huawei.com.my, I22, Prepaid, Air, 80, 5
+S06, Khind Holdings, +60378392000, info@khind.com.my, I11;I15;I19;I26, Net 30, Land, 100, 7
+S07, Dahua Technology, +60386055168, malaysia@dahuatech.com, I09;I14, Prepaid, Air, 50, 5
+S08, Philips Malaysia, +60379698888, customerservice.my@philips.com, I08;I10;I13;I27, Net 30, Air, 400, 4
+S09, Xiaomi Malaysia, +6020273033, support@xiaomi.com.my, I18;I20;I23;I24, Prepaid, Land, 500, 3
+S10, HP Malaysia, +60323325333, contact@hp.com.my, I21, Prepaid, Air, 50, 5
+S11, Belkin Malaysia, +60322955115, info@belkin.com.my, I16, Net 60, Land, 250, 5
+S12, IKEA Malaysia, +60379527575, customerservice.my@ikea.com, I17;I30, Prepaid, Land, 150, 4

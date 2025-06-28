@@ -1,0 +1,21 @@
+REQ001,I01,Electric Rice Steamer,S01,3
+REQ002,I02,Electric Kettle,S02,5
+REQ003,I03,Microwave Oven,S01,4
+REQ004,I04,Air Conditioner,S02,6
+REQ005,I05,Washing Machine,S04,2
+REQ006,I06,Refrigerator,S03,7
+REQ007,I07,Toaster Oven,S05,3
+REQ008,I08,Blender,S06,4
+REQ009,I09,Vacuum Cleaner,S07,5
+REQ010,I10,Dishwasher,S08,2
+REQ011,I11,Food Processor,S09,6
+REQ012,I12,Juicer,S10,8
+REQ013,I13,Water Purifier,S11,4
+REQ014,I14,Microwave Oven,S12,3
+REQ015,I15,Electric Grill,S13,5
+REQ016,I16,Coffee Maker,S14,2
+REQ017,I17,Electric Skillet,S15,7
+REQ018,I18,Air Purifier,S16,6
+REQ019,I19,Portable Heater,S17,4
+REQ020,I20,Electric Fan,S18,3
+REQ022,I11,Juicer,S03,3

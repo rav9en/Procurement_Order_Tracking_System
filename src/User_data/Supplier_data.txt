@@ -1,0 +1,10 @@
+S011, HomeStyle Appliances, Kevin Tan, 0141234567, 345 Jalan Selesa, KL
+S012, Future Electronics, Rachel Lim, 0162345678, 678 Taman Canggih, PJ
+S013, Industrial Tools Co., David Yap, 0138765432, 890 Jalan Industri, Shah Alam
+S014, Supreme Furnishings, Grace Lee, 0177654321, 234 Taman Kemas, Subang Jaya
+S015, Bright Appliances, Steven Ho, 0191122334, 456 Jalan Ceria, PJ
+S016, PrimeTech Supplies, Janet Tan, 0146574839, 567 Taman Maju, KL
+S017, Quality Goods Co., Samuel Ong, 0156789012, 789 Jalan Gemilang, Shah Alam
+S018, World Electronics, Alice Tan, 0139876543, 890 Taman Dunia, Subang Jaya
+S019, Optima Tools, Brian Low, 0189988776, 123 Jalan Optima, PJ
+S020, Global Furnishings, Mei Ling, 0164455667, 345 Taman Serasi, KL

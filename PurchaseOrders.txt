@@ -1,0 +1,34 @@
+P001, I01, Electric rice steamer, S01, 4, 180.0, 720.0, 2024-12-08, Pending, Delivering  
+P002, I02, Smart doorbell, S02, 3, 500.0, 1500.0, 2024-12-08, Cancel, Processed  
+P003, I03, Microwave oven, S01, 3, 480.0, 1440.0, 2024-12-08, Pending, Received  
+P004, I04, Air conditioner(1.5 HP), S02, 2, 1200.0, 2400.0, 2024-12-08, Pending, Pending  
+P005, I05, Washing machine(7kg), S04, 1, 1400.0, 1400.0, 2024-12-08, Received, Delivering  
+P006, I06, Refrigerator(400L), S04, 1, 2000.0, 2000.0, 2024-12-08, Pending, Processed  
+P007, I07, Blender, S03, 6, 180.0, 1080.0, 2024-12-08, Pending, Pending  
+P008, I08, Electric kettle, S08, 8, 90.0, 720.0, 2024-12-08, Received, Delivering  
+P009, I09, Outdoor security camera, S07, 2, 750.0, 1500.0, 2024-12-08, Received, Received  
+P010, I10, Electric shaver, S08, 10, 220.0, 2200.0, 2024-12-08, Cancel, Processed  
+P011, I11, Electric blanket, S06, 2, 380.0, 760.0, 2024-12-08, Pending, Pending  
+P012, I12, Hair dryer, S03, 15, 100.0, 1500.0, 2024-12-08, Pending, Delivering  
+P013, I13, Coffee maker, S08, 3, 350.0, 1050.0, 2024-12-08, Pending, Processed  
+P014, I14, Smart thermostat, S07, 4, 450.0, 1800.0, 2024-12-08, Pending, Received  
+P015, I15, Portable generator, S06, 1, 1800.0, 1800.0, 2024-12-08, Received, Pending  
+P016, I16, Surge protector, S11, 5, 140.0, 700.0, 2024-12-08, Pending, Delivering  
+P017, I17, Extension cord(5 sockets), S12, 20, 45.0, 900.0, 2024-12-08, Cancel, Processed  
+P018, I18, Smart light bulb, S09, 15, 60.0, 900.0, 2024-12-08, Pending, Received  
+P019, I19, Electric drill, S06, 4, 290.0, 1160.0, 2024-12-08, Pending, Pending  
+P020, I20, Powerbank, S09, 10, 120.0, 1200.0, 2024-12-08, Received, Delivering  
+P021, I21, Laptop, S10, 2, 3400.0, 6800.0, 2024-12-08, Pending, Processed  
+P022, I22, Smartphone, S05, 3, 2500.0, 7500.0, 2024-12-08, Pending, Received  
+P023, I23, Bluetooth speaker, S09, 8, 240.0, 1920.0, 2024-12-08, Cancel, Pending  
+P024, I24, Smart watch, S09, 4, 700.0, 2800.0, 2024-12-08, Pending, Delivering  
+P025, I25, Air fryer, S01, 4, 380.0, 1520.0, 2024-12-08, Pending, Processed  
+P026, I26, Ceiling fan, S06, 3, 250.0, 750.0, 2024-12-08, Pending, Received  
+P027, I27, Iron, S08, 8, 120.0, 960.0, 2024-12-08, Pending, Delivering  
+P028, I28, LED TV(40 inches), S04, 2, 1900.0, 3800.0, 2024-12-08, Received, Processed  
+P029, I29, Vacuum cleaner, S02, 2, 600.0, 1200.0, 2024-12-08, Cancel, Pending  
+P030, I30, Dehumidifier, S12, 5, 650.0, 3250.0, 2024-12-08, Pending, Received 
+P031, I07, Blender, S03, 1, 180.0, 180.0, 2024-10-16, Pending, Pending
+P032, I21, Laptop, S10, 1, 3400.0, 3400.0, 2024-12-13, Received, Delivering
+P033, I07, Blender, S03, 3, 180.0, 540.0, 2024-17-17, Received, Delivering
+P034, I07, Blender, S03, 2, 180.0, 360.0, 2024-32-20, Received, Delivering

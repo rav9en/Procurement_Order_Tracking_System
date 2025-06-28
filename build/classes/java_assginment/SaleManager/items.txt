@@ -1,0 +1,30 @@
+I01,Electric rice steamer,S01,RM180.0,2kg/25x25x25cm,10,9
+I02,Smart doorbell,S02,RM500.0,0.8kg/10x10x5cm,6,4
+I03,Microwave oven,S01,RM480.0,12kg/50x40x35cm,5,2
+I04,Air conditioner(1.5 HP),S02,RM1200.0,30kg/80x60x40cm,3,6
+I05,Washing machine(7kg),S04,RM1400.0,35kg/60x55x85cm,2,5
+I06,Refrigerator(400L),S04,RM2000.0,60kg/80x70x60cm,2,6
+I07,Blender,S03,RM180.0,2kg/15x15x30cm,8,18
+I08,Electric kettle,S08,RM90.0,1.5kg/20x20x20cm,10,25
+I09,Outdoor security camera,S07,RM750.0,2kg/25x15x15cm,4,8
+I10,Electric shaver,S08,RM220.0,0.5kg/10x5x3cm,15,25
+I11,Electric blanket,S06,RM380.0,2kg/200x150cm,4,4
+I12,Hair dryer,S03,RM100.0,1kg/20x10x10cm,20,40
+I13,Coffee maker,S08,RM350.0,4kg/30x20x20cm,5,10
+I14,Smart thermostat,S07,RM450.0,0.5kg/15x10x5cm,5,7
+I15,Portable generator,S06,RM1800.0,20kg/50x50x50cm,2,3
+I16,Surge protector,S11,RM140.0,1kg/30x15x10cm,8,15
+I17,Extension cord(5 sockets),S12,RM45.0,0.5kg/20x10x5cm,25,30
+I18,Smart light bulb,S09,RM60.0,0.2kg/10x10x5cm,20,50
+I19,Electric drill,S06,RM290.0,3kg/25x20x15cm,6,10
+I20,Powerbank,S09,RM120.0,0.3kg/10x5x2cm,15,39
+I21,Laptop,S10,RM3400.0,2kg/35x25x2cm,4,6
+I22,Smartphone,S05,RM2500.0,0.3kg/15x8x1cm,5,8
+I23,Bluetooth speaker,S09,RM240.0,1kg/15x10x10cm,12,20
+I24,Smart watch,S09,RM700.0,0.2kg/5x5x2cm,6,10
+I25,Air fryer,S01,RM380.0,4kg/35x30x30cm,6,12
+I26,Ceiling fan,S06,RM250.0,4kg/60x60x30cm,5,10
+I27,Iron,S08,RM120.0,1.5kg/25x12x12cm,10,15
+I28,LED TV(40 inches),S04,RM1900.0,15kg/100x60x10cm,4,6
+I29,Vacuum cleaner,S02,RM600.0,5kg/40x30x25cm,3,7
+I30,Dehumidifier,S12,RM650.0,5kg/45x30x30cm,6,15

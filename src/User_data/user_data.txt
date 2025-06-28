@@ -1,0 +1,5 @@
+Ali,Ali,Ali,123,Sales Manager (SM),2024-12-20
+Abu,Abu,Abu,123,Purchase Manager (PM),2024-12-20
+Alex,Alex,Alex,123,Inventory Manager (IM),2024-12-20
+Johnson,Johnson,Johnson,123,Finance Manager (FM),2024-12-20
+Sophia,Sophia,Sophia,123,Administrators (AM),2024-12-20

@@ -1,0 +1,101 @@
+Item ID,Item,Price per Unit (RM),Total Sales (RM)
+I001,Refrigerator,50,1200
+I002,Washing Machine,30,800
+I003,Microwave Oven,40,300
+I004,Vacuum Cleaner,25,450
+I005,Air Conditioner,20,1500
+I006,Toaster,15,150
+I007,Blender,60,200
+I008,Food Processor,35,500
+I009,Juicer,80,250
+I010,Water Purifier,45,900
+I011,Electric Kettle,90,100
+I012,Coffee Maker,55,700
+I013,Deep Fryer,70,400
+I014,Sandwich Maker,25,180
+I015,Electric Cooker,40,600
+I016,Hair Dryer,85,300
+I017,Electric Shaver,75,250
+I018,Steam Iron,95,350
+I019,Ceiling Fan,65,1200
+I020,Table Fan,50,800
+I021,LED TV,20,3000
+I022,Smartphone,35,2000
+I023,Laptop,15,4500
+I024,Tablet,25,2500
+I025,Smart Watch,70,800
+I026,Gaming Console,30,1500
+I027,Bluetooth Speaker,60,600
+I028,Headphones,85,450
+I029,Wireless Earbuds,90,300
+I030,Power Bank,95,200
+I031,Camera,40,4000
+I032,Tripod,80,500
+I033,Printer,45,1200
+I034,Scanner,35,1500
+I035,External Hard Drive,50,800
+I036,USB Flash Drive,100,100
+I037,Router,75,500
+I038,Modem,60,400
+I039,Switch,35,700
+I040,Keyboard,90,150
+I041,Mouse,95,100
+I042,Monitor,20,2000
+I043,Desk Lamp,85,350
+I044,Charger,95,200
+I045,Extension Cord,70,100
+I046,Electric Heater,25,1500
+I047,Portable AC,15,2500
+I048,Dehumidifier,35,2000
+I049,Air Purifier,45,1800
+I050,Humidifier,55,700
+I051,Smart Thermostat,30,1500
+I052,Robot Vacuum,20,2500
+I053,Electric Grill,40,1200
+I054,Dishwasher,10,4000
+I055,Water Dispenser,15,3000
+I056,Electric Scooter,25,5000
+I057,Fitness Tracker,80,1000
+I058,Electric Bike,10,7000
+I059,Treadmill,15,6000
+I060,Elliptical Trainer,20,5500
+I061,Weight Scale,95,500
+I062,Yoga Mat,100,100
+I063,Dumbbells,75,600
+I064,Exercise Bike,30,4000
+I065,Smart Doorbell,45,1000
+I066,Home Security Camera,50,1200
+I067,Fire Alarm,85,400
+I068,Smoke Detector,90,300
+I069,Carbon Monoxide Detector,60,500
+I070,Smart Lock,25,1500
+I071,Pet Feeder,55,800
+I072,Dog Leash,95,200
+I073,Cat Tree,40,1000
+I074,Fish Tank,20,3000
+I075,Bird Cage,35,1500
+I076,Electric Blanket,15,2000
+I077,Smart Light Bulb,80,300
+I078,Electric Toothbrush,70,400
+I079,Hair Straightener,50,800
+I080,Nail Trimmer,90,150
+I081,Sewing Machine,30,3500
+I082,3D Printer,15,7000
+I083,VR Headset,20,5000
+I084,Drone,10,10000
+I085,Electric Chainsaw,25,4500
+I086,Power Drill,50,2000
+I087,Tool Kit,85,1000
+I088,Generator,20,12000
+I089,Lawn Mower,15,5000
+I090,Trimmer,25,1500
+I091,Garden Hose,95,300
+I092,Wheelbarrow,40,1500
+I093,Pressure Washer,30,4000
+I094,Electric Saw,35,2000
+I095,Wood Chipper,10,7000
+I096,Electric Scooter for Kids,50,2000
+I097,Kids Tablet,70,800
+I098,Toy Drone,80,1000
+I099,Board Games,95,200
+I100,Lego Set,90,500

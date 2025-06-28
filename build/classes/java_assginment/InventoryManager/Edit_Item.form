@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[857, 491]"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" pref="1012" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" pref="531" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="99" green="99" red="99" type="rgb"/>
+        </Property>
+        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[857, 491]"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace pref="151" max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="lblItemID_Edit" alignment="0" min="-2" pref="58" max="-2" attributes="0"/>
+                          <Component id="lblItemName_Edit" alignment="0" max="32767" attributes="0"/>
+                          <Component id="lblItem_SupplierId_Edit" alignment="0" min="-2" pref="189" max="-2" attributes="0"/>
+                          <Component id="lblItemPrice_Edit" alignment="0" min="-2" pref="37" max="-2" attributes="0"/>
+                          <Component id="lblItemReorderLevel_Edit" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="lblItemQuantityinStock_Edit" min="-2" pref="110" max="-2" attributes="0"/>
+                      <Component id="lblItemDimension_Edit" alignment="0" min="-2" pref="110" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="51" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="lblItemDimension_Old" min="-2" pref="114" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="lblItemName_Old" min="-2" pref="122" max="-2" attributes="0"/>
+                          <Component id="lblItemQuantityinStock_Old" alignment="1" min="-2" pref="122" max="-2" attributes="0"/>
+                          <Component id="lblItemPrice_Old" min="-2" pref="114" max="-2" attributes="0"/>
+                          <Component id="lblItem_SupplierId_Old" min="-2" pref="114" max="-2" attributes="0"/>
+                          <Component id="lblItemReorderLevel_Old" alignment="0" min="-2" pref="122" max="-2" attributes="0"/>
+                          <Component id="lblItemID_Old" alignment="0" min="-2" pref="122" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="lblEditItem" min="-2" pref="204" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Component id="txtItemName_Edit" min="-2" pref="154" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="143" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="txtItemDimension_Edit" alignment="0" min="-2" pref="154" max="-2" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <Component id="txtItemQuantityinStock_Edit" min="-2" pref="154" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="71" max="-2" attributes="0"/>
+                          <Component id="btnCancel_EditItem" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="txtItemPrice_Edit" alignment="0" max="32767" attributes="0"/>
+                              <Component id="txtItemReorderLevel_Edit" alignment="0" min="-2" pref="154" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                          <Component id="btnSaveChanges_EditItem" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="-2" pref="107" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                  <Component id="lblEditItem" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="lblItemID_Edit" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="lblItemID_Old" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="lblItemName_Edit" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="lblItemName_Old" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtItemName_Edit" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="lblItem_SupplierId_Edit" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="lblItem_SupplierId_Old" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="lblItemPrice_Edit" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="lblItemPrice_Old" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="lblItemDimension_Edit" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="lblItemDimension_Old" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtItemDimension_Edit" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="54" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Component id="txtItemPrice_Edit" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="81" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="lblItemReorderLevel_Edit" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="lblItemReorderLevel_Old" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="txtItemReorderLevel_Edit" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="btnSaveChanges_EditItem" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="lblItemQuantityinStock_Edit" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="lblItemQuantityinStock_Old" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="txtItemQuantityinStock_Edit" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnCancel_EditItem" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="0" pref="96" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="lblEditItem">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tw Cen MT" size="48" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Edit Item"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblItemID_Edit">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Item ID"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblItemName_Edit">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Item Name"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblItem_SupplierId_Edit">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Supplier ID"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblItemPrice_Edit">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Price"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblItemDimension_Edit">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Weight/Dimensions"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblItemReorderLevel_Edit">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Reorder Level"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblItemQuantityinStock_Edit">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Quantity in Stock"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtItemQuantityinStock_Edit">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtItemReorderLevel_Edit">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtItemDimension_Edit">
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtItemPrice_Edit">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtItemPrice_EditActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="txtItemName_Edit">
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txtItemName_EditActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblItemID_Old">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel9"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblItem_SupplierId_Old">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel10"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnSaveChanges_EditItem">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="12" style="3"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Save Changes"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnSaveChanges_EditItemActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnCancel_EditItem">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="12" style="3"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Cancel"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnCancel_EditItemActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblItemName_Old">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel11"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblItemPrice_Old">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel12"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblItemDimension_Old">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel13"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblItemReorderLevel_Old">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel14"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblItemQuantityinStock_Old">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jLabel15"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

@@ -1,0 +1,4 @@
+"PM001", "P005", "Samsung Malaysia", "2024-12-20", 1400.00
+"PM002", "P008", "Philips Malaysia", "2024-12-20", 720.00
+"PM003", "P015", "Khind Holdings", "2024-12-20", 1800.00
+"PM004", "P009", "Dahua Technology", "2024-12-20", 1500.00

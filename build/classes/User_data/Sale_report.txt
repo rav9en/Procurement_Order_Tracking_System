@@ -1,0 +1,8 @@
+Date,Item,Quantity Sold,Price per Unit (RM),Total Sales (RM)
+2024-11-01,Apple,50,1.00,50.00
+2024-11-01,Banana,30,0.50,15.00
+2024-11-02,Orange,40,1.20,48.00
+2024-11-03,Mango,20,2.00,40.00
+2024-11-03,Pineapple,10,3.00,30.00
+2024-11-04,Watermelon,5,5.00,25.00
+2024-11-04,Grapes,25,2.50,62.50
